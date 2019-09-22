@@ -1,0 +1,5 @@
+/home/toddg/proj/energy-dashboard/data/data-oasis-atl-apnode-all/sql/20190920_20190921_ATL_APNODE_N_20190922_11_06_34_v1.sql
+/home/toddg/proj/energy-dashboard/data/data-oasis-atl-apnode-all/sql/20190917_20190918_ATL_APNODE_N_20190922_11_06_18_v1.sql
+/home/toddg/proj/energy-dashboard/data/data-oasis-atl-apnode-all/sql/20190918_20190919_ATL_APNODE_N_20190922_11_06_23_v1.sql
+/home/toddg/proj/energy-dashboard/data/data-oasis-atl-apnode-all/sql/20190916_20190917_ATL_APNODE_N_20190922_11_06_12_v1.sql
+/home/toddg/proj/energy-dashboard/data/data-oasis-atl-apnode-all/sql/20190919_20190920_ATL_APNODE_N_20190922_11_06_29_v1.sql
